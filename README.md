@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <p align="center">
-  <img src="Google-Clone/src/assets/profile-200x200.jpg" />
+  <img src="profile-200x200.jpg" />
 </p>
 
 
