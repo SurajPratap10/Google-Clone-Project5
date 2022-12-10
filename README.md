@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <img src="Mockup.png" />
 </p>
 
+Link: https://google-search-clone-suraj10.netlify.app/
 
 ## Available Scripts
 
