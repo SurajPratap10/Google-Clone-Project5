@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <p align="center">
-  <img src="profile-200x200.jpg" />
+  <img src="Mockup.jpg" />
 </p>
 
 
