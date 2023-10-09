@@ -1,9 +1,7 @@
 # Getting Started with Create React App
-
 <p align="center">
   <img src="Mockup.png" />
 </p>
-
 Live Site: https://google-search-clone-suraj10.netlify.app/
 
 ## Available Scripts
